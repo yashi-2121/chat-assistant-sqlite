@@ -53,7 +53,7 @@ This project uses an SQLite database with the following tables:
 ```sh
  python app.py
 ```
-The application will run on `http://127.0.0.1:5000/`.
+
 
 ## 🔒 Security Improvements
 - Use **parameterized queries** to prevent SQL injection.
@@ -76,7 +76,7 @@ The application will run on `http://127.0.0.1:5000/`.
 ## 🚀 Deployment
 This project is deployed on Render. You can access it at:
 ```
-"https://chat-assistant-sqlite.onrender.com"
+ https://chat-assistant-sqlite.onrender.com/ui
 ```
 
 ## 📜 Known Limitations & Future Improvements
